@@ -1,0 +1,26 @@
+{
+  "name": "VENTAS VIRTUAL DIMAX - Luis Angel Hernández",
+  "short_name": "DIMAX Ventas",
+  "description": "Control de ventas virtuales de repuestos de motos, liquidación de comisiones y reportes para Almacén DIMAX",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#dc2626",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["business", "finance", "productivity"]
+}
+
